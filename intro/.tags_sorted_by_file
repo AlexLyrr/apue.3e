@@ -1,0 +1,19 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+PLATFORM	Makefile	/^PLATFORM=$(shell $(ROOT)\/systype.sh)$/;"	m
+PROGS	Makefile	/^PROGS =	getcputc hello ls1 mycat shell1 shell2 testerror uidgid$/;"	m
+ROOT	Makefile	/^ROOT=..$/;"	m
+main	getcputc.c	/^main(void)$/;"	f
+main	hello.c	/^main(void)$/;"	f
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+main	ls1.c	/^main(int argc, char* argv[]) {$/;"	f
+BUFFSIZE	mycat.c	3;"	d	file:
+main	mycat.c	/^main(void)$/;"	f
+main	shell1.c	/^main(void)$/;"	f
+main	shell2.c	/^main(void)$/;"	f
+sig_int	shell2.c	/^sig_int(int signo)$/;"	f
+main	testerror.c	/^main(int argc, char *argv[])$/;"	f
+main	uidgid.c	/^main(void)$/;"	f

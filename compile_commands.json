@@ -1,0 +1,1009 @@
+[
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ruptimed-dg.o", 
+            "ruptimed-dg.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "ruptimed-dg.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "signalintr.o", 
+            "signalintr.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "signalintr.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "reread2.o", 
+            "reread2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/daemons", 
+        "file": "reread2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "rot13c2", 
+            "rot13c2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "rot13c2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "signal.o", 
+            "signal.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "signal.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "pathalloc.o", 
+            "pathalloc.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "pathalloc.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ruptimed-fd.o", 
+            "ruptimed-fd.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "ruptimed-fd.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ls1", 
+            "ls1.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "ls1.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "initsrv1.o", 
+            "initsrv1.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "initsrv1.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "sleep.o", 
+            "sleep.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "sleep.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "deadlock", 
+            "deadlock.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "deadlock.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "writen.o", 
+            "writen.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "writen.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-fPIC", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "db.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/db", 
+        "file": "db.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "getcputc", 
+            "getcputc.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "getcputc.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "hello", 
+            "hello.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "hello.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "shell2", 
+            "shell2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "shell2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "reread.o", 
+            "reread.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/daemons", 
+        "file": "reread.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "lockfile.o", 
+            "lockfile.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "lockfile.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "strftime", 
+            "strftime.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/datafiles", 
+        "file": "strftime.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "shell1", 
+            "shell1.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "shell1.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "clrfl.o", 
+            "clrfl.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "clrfl.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ptyopen.o", 
+            "ptyopen.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "ptyopen.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "daemonize.o", 
+            "daemonize.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "daemonize.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ruptime.o", 
+            "ruptime.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "ruptime.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "popen.o", 
+            "popen.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "popen.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "single.o", 
+            "single.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/daemons", 
+        "file": "single.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "openmax.o", 
+            "openmax.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "openmax.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "mandatory", 
+            "mandatory.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "mandatory.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "error.o", 
+            "error.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "error.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "initsrv2.o", 
+            "initsrv2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "initsrv2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "locktest.o", 
+            "locktest.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "locktest.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "errorlog.o", 
+            "errorlog.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "errorlog.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "setfd.o", 
+            "setfd.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "setfd.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "sleepus.o", 
+            "sleepus.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "sleepus.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "recvfd.o", 
+            "recvfd.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "recvfd.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "bufargs.o", 
+            "bufargs.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "bufargs.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "senderr.o", 
+            "senderr.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "senderr.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "lockreg.o", 
+            "lockreg.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "lockreg.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ruptime-dg", 
+            "ruptime-dg.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "ruptime-dg.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "clconn.o", 
+            "clconn.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "clconn.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "spipe.o", 
+            "spipe.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "spipe.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "testerror", 
+            "testerror.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "testerror.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "nonblockw", 
+            "nonblockw.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "nonblockw.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "cliconn.o", 
+            "cliconn.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "cliconn.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "sendfd.o", 
+            "sendfd.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "sendfd.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "prmask.o", 
+            "prmask.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "prmask.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "readn.o", 
+            "readn.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "readn.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ruptimed.o", 
+            "ruptimed.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "ruptimed.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "mycat", 
+            "mycat.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "mycat.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "prexit.o", 
+            "prexit.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "prexit.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "servaccept.o", 
+            "servaccept.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "servaccept.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "clconn2.o", 
+            "clconn2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "clconn2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ptyfork.o", 
+            "ptyfork.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "ptyfork.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "uidgid", 
+            "uidgid.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/intro", 
+        "file": "uidgid.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "tellwait.o", 
+            "tellwait.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "tellwait.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "findsvc", 
+            "findsvc.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/sockets", 
+        "file": "findsvc.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "servlisten.o", 
+            "servlisten.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "servlisten.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "ttymodes.o", 
+            "ttymodes.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "ttymodes.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "init.o", 
+            "init.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/daemons", 
+        "file": "init.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "getpwnam.o", 
+            "getpwnam.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/datafiles", 
+        "file": "getpwnam.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "mcopy2", 
+            "mcopy2.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "mcopy2.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "setfl.o", 
+            "setfl.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/lib", 
+        "file": "setfl.c"
+    }, 
+    {
+        "arguments": [
+            "gcc", 
+            "-c", 
+            "-ansi", 
+            "-I../include", 
+            "-Wall", 
+            "-DLINUX", 
+            "-D_GNU_SOURCE", 
+            "-o", 
+            "rot13a", 
+            "rot13a.c"
+        ], 
+        "directory": "/media/sf_vbx_shared/study material/Programming/C/code/apue.3e/advio", 
+        "file": "rot13a.c"
+    }
+]

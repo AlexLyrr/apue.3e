@@ -1,0 +1,16 @@
+The UNIX systems have a counter which count the number of seconds since the Epoch:
+00:00:00 January 1, 1970, Coordinated Universal Time (UTC). Since the max. value
+of a 32-bit integer is 2.147.483.647, the max. years it can count is:
+
+counted_years = 2.147.483.647 / (60 * 60 * 24 * 365) ~= 68. 
+
+Therefore, we can count up to year 2038. See also https://en.wikipedia.org/wiki/Year_2038_problem
+We can extend the overflow point by making this a unsigned integer or by increasing the bit width.
+"in the C language, any change to the definition of the time_t data type would result in code 
+compatibility problems in any application in which date and time representations are dependent
+on the nature of the signed 32-bit time_t integer. For example, changing time_t to an unsigned 
+32-bit integer, which would extend the range to 2106 (specifically, 06:28:15 UTC on Sunday, 7
+February 2106), would adversely affect programs that store, retrieve, or manipulate dates prior
+to 1970, as such dates are represented by negative numbers. Increasing the size of the time_t
+type to 64-bit in an existing system would cause incompatible changes to the layout of structures 
+and the binary interface of functions."

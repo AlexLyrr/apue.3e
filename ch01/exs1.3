@@ -1,0 +1,4 @@
+Even if the function modifies the passed integer, it won't modify the value outside of the 
+function, because it is passed by value. Therefore, you don't need strerror(const int errnum).
+
+See also https://stackoverflow.com/questions/23713257/why-is-the-argument-to-perror-defined-with-the-iso-c-attribute-const
